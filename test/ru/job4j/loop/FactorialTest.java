@@ -2,12 +2,10 @@ package ru.job4j.loop;
 
 import org.junit.Assert;
 import org.junit.Test;
-
 public class FactorialTest {
 
-
     @Test
-    public void whenCalculateFactorialForFiveThenOneHundreedTwenty() {
+    public void whenCalculateFactorialForFiveThenOneHundredTwenty() {
 
         int n = 5;
         int expected = 120;
